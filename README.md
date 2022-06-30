@@ -1,4 +1,4 @@
-# NGINX OSS or Plus with Wallarm Inside
+# NGINX OSS or Plus with Wallarm Protection Module
 Introduction to Deploying Wallarm Nodes installed as a Dynamic Module in NGINX OSS or Plus
 
 ### Goals
