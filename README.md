@@ -22,7 +22,7 @@ This guide is designed to be completed on any system including your laptop
 
 ## Prerequisites
 
-Root access to recent version of Ubuntu (deployed however you wish)
+Root access to recent version of Ubuntu (deployed however you wish). This lab guide used the 20.04.4 Focal release.
 
 Please reference the following documentation for the currently supported and recommended kernels:
 https://docs.wallarm.com/waf-installation/nginx/dynamic-module/#2-add-wallarm-repositories
