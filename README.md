@@ -4,8 +4,8 @@ Introduction to Deploying Wallarm Nodes installed as a Dynamic Module in NGINX O
 ### Goals
 * Install NGINX
 * Create a trial account at wallarm.com
-* Obtain a token from the Wallarm Cloud Dashboard
 * Install the Wallarm dynamic module for NGINX
+* Connect the filtering node to Wallarm Cloud
 * Configure NGINX and Wallarm to provide API and Application Security
 * Simulate attacks against the node with GoTestWAF
 * Explore the Wallarm Cloud Dashboard
