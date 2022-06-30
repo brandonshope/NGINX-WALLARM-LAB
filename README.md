@@ -20,7 +20,11 @@ the ability to bulk copy and paste multiple lines at once.
 
 This guide is designed to be completed on any system including your laptop
 
-Prerequisites
+## Prerequisites
 
 Root access to recent version of Ubuntu (deployed however you wish)
+
+Please reference the following documentation for the currently supported and recommended kernels:
+https://docs.wallarm.com/waf-installation/nginx/dynamic-module/#2-add-wallarm-repositories
+
 This lab guide will assume you have deployed Ubuntu and have access to the CLI and a web browser that has connectivity to the ubuntu machine
