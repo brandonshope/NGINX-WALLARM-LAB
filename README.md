@@ -1,5 +1,5 @@
-# NGINX OSS with Wallarm Inside
-Introduction to Wallarm Nodes installed as a Dynamic Module in NGINX OSS
+# NGINX OSS or Plus with Wallarm Inside
+Introduction to Wallarm Nodes installed as a Dynamic Module in NGINX OSS or Plus
 
 ### Goals
 * Install NGINX
